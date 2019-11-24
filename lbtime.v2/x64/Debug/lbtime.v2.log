@@ -1,0 +1,34 @@
+﻿  lbtime.v2.cpp
+D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\TemplateFN.hpp(28): warning C4244: 'initializing': conversion from 'int' to 'volatile T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\Source.hpp(22): note: see reference to function template instantiation 'double Time_SUM<float>(int)' being compiled
+  D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\lbtime.v2.cpp(9): note: see reference to function template instantiation 'void makeVectorWithTime<std::string,double>(std::vector<std::pair<std::string,double>,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=std::pair<std::string,double>
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\chrono(595): note: see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\chrono(172): note: see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\chrono(574): note: see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\TemplateFN.hpp(41): warning C4244: 'initializing': conversion from 'int' to 'volatile T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\Source.hpp(23): note: see reference to function template instantiation 'double Time_MINUS<float>(int)' being compiled
+D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\TemplateFN.hpp(54): warning C4244: 'initializing': conversion from 'int' to 'volatile T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\Source.hpp(24): note: see reference to function template instantiation 'double Time_MULT<float>(int)' being compiled
+D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\TemplateFN.hpp(67): warning C4244: 'initializing': conversion from 'int' to 'volatile T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\lbtime.v2\Source.hpp(25): note: see reference to function template instantiation 'double Time_DIV<float>(int)' being compiled
+  lbtime.v2.vcxproj -> D:\riki\project\labs 2ks\AOS 1 semestr\lbtime.v2\x64\Debug\lbtime.v2.exe
